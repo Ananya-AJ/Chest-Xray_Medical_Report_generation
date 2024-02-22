@@ -22,6 +22,8 @@ Location: ../Reports/
 https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz
 
 App snapshots:
+
+
 ![image](https://github.com/Ananya-AJ/Chest-Xray_Medical_Report_generation/assets/111623197/ed8679c2-c750-49a3-b02e-632c7b6bc76f)
 
 
