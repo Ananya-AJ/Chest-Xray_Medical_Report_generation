@@ -22,11 +22,15 @@ Location: ../Reports/
 https://openi.nlm.nih.gov/imgs/collections/NLMCXR_reports.tgz
 
 App snapshots:
-Screenshot from 2023-05-17 15-39-41
+![image](https://github.com/Ananya-AJ/Chest-Xray_Medical_Report_generation/assets/111623197/ed8679c2-c750-49a3-b02e-632c7b6bc76f)
 
-Screenshot from 2023-05-17 15-39-53
 
-Screenshot from 2023-05-17 15-40-15
+![image](https://github.com/Ananya-AJ/Chest-Xray_Medical_Report_generation/assets/111623197/567f74c7-2242-45cf-a7b3-6904b52ca403)
+
+
+
+![image](https://github.com/Ananya-AJ/Chest-Xray_Medical_Report_generation/assets/111623197/e244752c-6a03-44f3-92de-df6df4f95e1b)
+
 
 To run the applicaton
 Clone repo.
@@ -34,5 +38,6 @@ Add chest x-ray images in Images folder and reports in Reports folder at root le
 Add OpenAI api key to config.py in Code folder.
 Install requiremnts.txt
 To run, navigate into the Code folder and use 'streamlit run frontend.py'
+
 Models
 https://drive.google.com/drive/folders/1kqEZm906iXJefqE7o03wycBx2D2jw12w?usp=share_link
